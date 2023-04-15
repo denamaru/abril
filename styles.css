@@ -1,0 +1,46 @@
+/*formato de página*/
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #E9EAEC;
+  color: #333652;
+}
+
+main {  background-color: #90ADC6;
+  padding-top: 50px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  align-items: center;
+}
+
+figure {  background-color: #E9EAEC;
+  padding: 5px 5px 20px 5px;
+  margin-top: 50px;
+}
+
+/*fuentes*/
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-size: 3.5rem;
+  color: #E9EAEC;
+  text-shadow: 4px 4px 5px #333652;
+  margin: 0;
+}
+.sub {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-style: oblique;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #FAD02C;
+  text-shadow: 4px 4px 5px #333652;
+  margin: 0;  
+}
