@@ -25,6 +25,10 @@ figure {  background-color: #E9EAEC;
   margin-top: 50px;
 }
 
+section {
+  margin-left: 40px;
+}
+
 /*fuentes*/
 .title {
   font-family: 'Ubuntu', sans-serif;
@@ -43,4 +47,12 @@ figure {  background-color: #E9EAEC;
   color: #FAD02C;
   text-shadow: 4px 4px 5px #333652;
   margin: 0;  
+}
+.puntos {
+  font-family: 'Open Sans', sans-serif;
+  font-style: bold;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #E9EAEC;
+  text-shadow: 2px 2px 3px #333652
 }
